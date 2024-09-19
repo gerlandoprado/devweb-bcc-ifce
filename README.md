@@ -1,6 +1,5 @@
 # Sistema de Cadastro de Clientes
 
-## Equipe
 **Equipe:** 
 - Antônio Davi
 - Antônio Ricardo
