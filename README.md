@@ -25,15 +25,14 @@ A API permite realizar operações CRUD (Create, Read, Update, Delete) em client
 
 ## Como Executar
 
-    ```bash
     npm install
     node .
-    ```
+    
 
 ## O servidor estará disponível no endereço:
-    ```
+    
     http://localhost:3000/api/clientes
-    ```
+    
 
 ## URL da API
 
