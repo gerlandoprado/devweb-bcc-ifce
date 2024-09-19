@@ -1,7 +1,7 @@
 # Sistema de Cadastro de Clientes
 
 ## Equipe
-**Nome da Equipe:** 
+**Equipe:** 
 - Antônio Davi
 - Antônio Ricardo
 - Diego Ribeiro
